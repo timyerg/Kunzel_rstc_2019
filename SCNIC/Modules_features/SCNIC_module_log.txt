@@ -1,0 +1,11 @@
+start time: 2021-10-26 15:56:32.453192
+SCNIC analysis type: module
+input correls: SCNIC/Within_features/correls.txt
+output directory: /home/meco/Nextcloud/Projects/RUSITEC/Rusitec_amplicon2019/SCNIC/Modules_features
+number of modules created: 12
+input uncollapsed table: SCNIC/feature-table.biom
+number of observations in output table: 15
+number of nodes: 55
+number of edges: 372
+finish time: 2021-10-26 15:56:32.795678
+elapsed time: 0:00:00.342486

@@ -1,0 +1,11 @@
+	Group1	Group2	p	q
+0	Trt5	Trt2	0.028	0.05
+1	Trt5	Trt1	0.022	0.05
+2	Trt5	Trt3	0.024	0.05
+3	Trt5	Trt4	0.059	0.075
+4	Trt2	Trt1	0.145	0.145
+5	Trt2	Trt3	0.06	0.075
+6	Trt2	Trt4	0.026	0.05
+7	Trt1	Trt3	0.03	0.05
+8	Trt1	Trt4	0.022	0.05
+9	Trt3	Trt4	0.102	0.11333333333333333

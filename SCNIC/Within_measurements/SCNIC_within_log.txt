@@ -1,0 +1,10 @@
+start time: 2021-10-26 15:55:18.075283
+SCNIC analysis type: within
+input table: SCNIC/measurements.biom
+number of samples in input table: 120
+number of observations in input table: 13
+output directory: /home/meco/Nextcloud/Projects/RUSITEC/Rusitec_amplicon2019/SCNIC/Within_measurements
+number of processors used: 1
+distance metric used: <function spearmanr at 0x7fefd70c5b70>
+finish time: 2021-10-26 15:55:18.212352
+elapsed time: 0:00:00.137069

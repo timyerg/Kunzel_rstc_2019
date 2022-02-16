@@ -1,0 +1,12 @@
+module_0	Olsenella	Limosilactobacillus	Shuttleworthia	Prevotella_7	Fibrobacter	Pseudobutyrivibrio	Selenomonas	Lachnospiraceae_uncl(NK3A20)	Treponema	Pseudoscardovia	Lactobacillus
+module_1	Izemoplasmatales	Sphaerochaeta	uncl(UCG-010)	uncl(NK4A214)	Rhodospirillales_uncl	Negativicutes_uncl	Bacteroidales_uncl	Clostridia_uncl(UCG-014)	Clostridia_uncl(vadinBB60)
+module_2	Candidatus_Saccharimonas	Erysipelotrichaceae_uncl	uncl(WPS-2)	Monoglobus	Prevotellaceae_uncl(UCG-003)
+module_3	Pseudoramibacter	Catenisphaera	Syntrophococcus	Eubacterium_nodatum
+module_4	Streptococcus	Succinivibrio	Dialister	Prevotellaceae_uncl(YAB2003)
+module_5	Rikenellaceae_uncl(RC9_gut)	Succiniclasticum	uncl(F082)	Christensenellaceae_uncl(R-7)
+module_6	Candidatus_Methanomethylophilus	Methanomethylophilaceae_uncl	Methanomicrobium	Methanimicrococcus
+module_7	Methanobacteriaceae_uncl	Methanosphaera	Methanobrevibacter
+module_8	Prevotella	Ruminobacter
+module_9	Acetitomaculum	Muribaculaceae
+module_10	Comamonas	Acinetobacter
+module_11	Megasphaera	Bifidobacterium

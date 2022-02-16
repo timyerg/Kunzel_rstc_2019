@@ -1,0 +1,155 @@
+Mothur name	Nr reads_0	Sample No.	Subsample	Date of Sampling	Sample Name	Description	Description 2	Fermenter
+A1000	29749	2019-14-1000	Mibi	8/21/2019	SP d0-C1-Run1	Rumen solid phase from day 0 (start)	From cow 1 Run 1	
+A1001	27063	2019-14-1001	Mibi	8/21/2019	SP d0-C2-Run1	Rumen solid phase from day 0 (start)	From cow 2 Run 1	
+A1002	30436	2019-14-1002	Mibi	8/21/2019	SP d0-C3-Run1	Rumen solid phase from day 0 (start)	From cow 3 Run 1	
+A1003	14517	2019-14-1003	Mibi	8/21/2019	RF d0-C1-Run1	Rumen fluid from day 0 (start)	From cow 1 Run 1	
+A1004	31197	2019-14-1004	Mibi	8/21/2019	RF d0-C2-Run1	Rumen fluid from day 0 (start)	From cow 2 Run 1	
+A1005	34167	2019-14-1005	Mibi	8/21/2019	RF d0-C3-Run1	Rumen fluid from day 0 (start)	From cow 3 Run 1	
+A1006	29553	2019-14-1006	Mibi	8/21/2019	RF d0-mixed-Run1	Rumen fluid from day 0 (start)	From cow 1-3 and mixed with buffer Run 1	
+A1007	25546	2019-14-1007	Mibi	9/3/2019	Feed residue d13 (24h) Trt1-Run1-HP1	Feed residue at day 13 from 24h bag	Treatment 1 Run 1 Heat pump 1	e
+A1008	40004	2019-14-1008	Mibi	9/3/2019	Feed residue d13 (48h) Trt1-Run1-HP1	Feed residue at day 13 from 48h bag	Treatment 1 Run 1 Heat pump 1	e
+A1009	31780	2019-14-1009	Mibi	9/3/2019	Feed residue d13 (24h) Trt1-Run1-HP2	Feed residue at day 13 from 24h bag	Treatment 1 Run 1 Heat pump 2	j
+A1010	41946	2019-14-1010	Mibi	9/3/2019	Feed residue d13 (48h) Trt1-Run1-HP2	Feed residue at day 13 from 48h bag	Treatment 1 Run 1 Heat pump 2	j
+A1011	35243	2019-14-1011	Mibi	9/3/2019	Feed residue d13 (24h) Trt2-Run1-HP1	Feed residue at day 13 from 24h bag	Treatment 2 Run 1 Heat pump 1	d
+A1012	41027	2019-14-1012	Mibi	9/3/2019	Feed residue d13 (48h) Trt2-Run1-HP1	Feed residue at day 13 from 48h bag	Treatment 2 Run 1 Heat pump 1	d
+A1013	40282	2019-14-1013	Mibi	9/3/2019	Feed residue d13 (24h) Trt2-Run1-HP2	Feed residue at day 13 from 24h bag	Treatment 2 Run 1 Heat pump 2	h
+A1014	44961	2019-14-1014	Mibi	9/3/2019	Feed residue d13 (48h) Trt2-Run1-HP2	Feed residue at day 13 from 48h bag	Treatment 2 Run 1 Heat pump 2	h
+A1015	25973	2019-14-1015	Mibi	9/3/2019	Feed residue d13 (24h) Trt3-Run1-HP1	Feed residue at day 13 from 24h bag	Treatment 3 Run 1 Heat pump 1	a
+A1016	24270	2019-14-1016	Mibi	9/3/2019	Feed residue d13 (48h) Trt3-Run1-HP1	Feed residue at day 13 from 48h bag	Treatment 3 Run 1 Heat pump 1	a
+A1017	32694	2019-14-1017	Mibi	9/3/2019	Feed residue d13 (24h) Trt3-Run1-HP2	Feed residue at day 13 from 24h bag	Treatment 3 Run 1 Heat pump 2	g
+A1018	32658	2019-14-1018	Mibi	9/3/2019	Feed residue d13 (48h) Trt3-Run1-HP2	Feed residue at day 13 from 48h bag	Treatment 3 Run 1 Heat pump 2	g
+A1019	31218	2019-14-1019	Mibi	9/3/2019	Feed residue d13 (24h) Trt4-Run1-HP1	Feed residue at day 13 from 24h bag	Treatment 4 Run 1 Heat pump 1	c
+A1020	28841	2019-14-1020	Mibi	9/3/2019	Feed residue d13 (48h) Trt4-Run1-HP1	Feed residue at day 13 from 48h bag	Treatment 4 Run 1 Heat pump 1	c
+A1021	25300	2019-14-1021	Mibi	9/3/2019	Feed residue d13 (24h) Trt4-Run1-HP2	Feed residue at day 13 from 24h bag	Treatment 4 Run 1 Heat pump 2	f
+A1022	29216	2019-14-1022	Mibi	9/3/2019	Feed residue d13 (48h) Trt4-Run1-HP2	Feed residue at day 13 from 48h bag	Treatment 4 Run 1 Heat pump 2	f
+A1023	28287	2019-14-1023	Mibi	9/3/2019	Feed residue d13 (24h) Trt5-Run1-HP1	Feed residue at day 13 from 24h bag	Treatment 5 Run 1 Heat pump 1	b
+A1024	29617	2019-14-1024	Mibi	9/3/2019	Feed residue d13 (48h) Trt5-Run1-HP1	Feed residue at day 13 from 48h bag	Treatment 5 Run 1 Heat pump 1	b
+A1025	28153	2019-14-1025	Mibi	9/3/2019	Feed residue d13 (24h) Trt5-Run1-HP2	Feed residue at day 13 from 24h bag	Treatment 5 Run 1 Heat pump 2	i
+A1026	36218	2019-14-1026	Mibi	9/3/2019	Feed residue d13 (48h) Trt5-Run1-HP2	Feed residue at day 13 from 48h bag	Treatment 5 Run 1 Heat pump 2	i
+A1027	38568	2019-14-1027	Mibi	9/3/2019	SAM d13 Trt1-Run1-HP1	Liquid after SAM treatment of both bags at day 13	Treatment 1 Run 1 Heat pump 1	e
+A1028	41601	2019-14-1028	Mibi	9/3/2019	SAM d13 Trt1-Run1-HP2	Liquid after SAM treatment of both bags at day 13	Treatment 1 Run 1 Heat pump 2	j
+A1029	39364	2019-14-1029	Mibi	9/3/2019	SAM d13 Trt2-Run1-HP1	Liquid after SAM treatment of both bags at day 13	Treatment 2 Run 1 Heat pump 1	d
+A1030	38074	2019-14-1030	Mibi	9/3/2019	SAM d13 Trt2-Run1-HP2	Liquid after SAM treatment of both bags at day 13	Treatment 2 Run 1 Heat pump 2	h
+A1031	24584	2019-14-1031	Mibi	9/3/2019	SAM d13 Trt3-Run1-HP1	Liquid after SAM treatment of both bags at day 13	Treatment 3 Run 1 Heat pump 1	a
+A1032	21160	2019-14-1032	Mibi	9/3/2019	SAM d13 Trt3-Run1-HP2	Liquid after SAM treatment of both bags at day 13	Treatment 3 Run 1 Heat pump 2	g
+A1033	40462	2019-14-1033	Mibi	9/3/2019	SAM d13 Trt4-Run1-HP1	Liquid after SAM treatment of both bags at day 13	Treatment 4 Run 1 Heat pump 1	c
+A1034	31180	2019-14-1034	Mibi	9/3/2019	SAM d13 Trt4-Run1-HP2	Liquid after SAM treatment of both bags at day 13	Treatment 4 Run 1 Heat pump 2	f
+A1035	34163	2019-14-1035	Mibi	9/3/2019	SAM d13 Trt5-Run1-HP1	Liquid after SAM treatment of both bags at day 13	Treatment 5 Run 1 Heat pump 1	b
+A1036	31931	2019-14-1036	Mibi	9/3/2019	SAM d13 Trt5-Run1-HP2	Liquid after SAM treatment of both bags at day 13	Treatment 5 Run 1 Heat pump 2	i
+A1037	21450	2019-14-1037	Mibi	8/28/2019	Fermenter liquid d7 Trt1-Run1-HP1	Fermenter liquid at day 7	Treatment 1 Run 1 Heat pump 1	e
+A1038	21300	2019-14-1038	Mibi	8/28/2019	Fermenter liquid d7 Trt1-Run1-HP2	Fermenter liquid at day 7	Treatment 1 Run 1 Heat pump 2	j
+A1039	15546	2019-14-1039	Mibi	8/28/2019	Fermenter liquid d7 Trt2-Run1-HP1	Fermenter liquid at day 7	Treatment 2 Run 1 Heat pump 1	d
+A1040	21097	2019-14-1040	Mibi	8/28/2019	Fermenter liquid d7 Trt2-Run1-HP2	Fermenter liquid at day 7	Treatment 2 Run 1 Heat pump 2	h
+A1041	22911	2019-14-1041	Mibi	8/28/2019	Fermenter liquid d7 Trt3-Run1-HP1	Fermenter liquid at day 7	Treatment 3 Run 1 Heat pump 1	a
+A1042	21976	2019-14-1042	Mibi	8/28/2019	Fermenter liquid d7 Trt3-Run1-HP2	Fermenter liquid at day 7	Treatment 3 Run 1 Heat pump 2	g
+A1043	25330	2019-14-1043	Mibi	8/28/2019	Fermenter liquid d7 Trt4-Run1-HP1	Fermenter liquid at day 7	Treatment 4 Run 1 Heat pump 1	c
+A1044	26406	2019-14-1044	Mibi	8/28/2019	Fermenter liquid d7 Trt4-Run1-HP2	Fermenter liquid at day 7	Treatment 4 Run 1 Heat pump 2	f
+A1045	24130	2019-14-1045	Mibi	8/28/2019	Fermenter liquid d7 Trt5-Run1-HP1	Fermenter liquid at day 7	Treatment 5 Run 1 Heat pump 1	b
+A1046	22707	2019-14-1046	Mibi	8/28/2019	Fermenter liquid d7 Trt5-Run1-HP2	Fermenter liquid at day 7	Treatment 5 Run 1 Heat pump 2	i
+A1047	22567	2019-14-1047	Mibi	9/3/2019	Fermenter liquid d13 Trt1-Run1-HP1	Fermenter liquid at day 13	Treatment 1 Run 1 Heat pump 1	e
+A1048	21350	2019-14-1048	Mibi	9/3/2019	Fermenter liquid d13 Trt1-Run1-HP2	Fermenter liquid at day 13	Treatment 1 Run 1 Heat pump 2	j
+A1049	23771	2019-14-1049	Mibi	9/3/2019	Fermenter liquid d13 Trt2-Run1-HP1	Fermenter liquid at day 13	Treatment 2 Run 1 Heat pump 1	d
+A1050	21491	2019-14-1050	Mibi	9/3/2019	Fermenter liquid d13 Trt2-Run1-HP2	Fermenter liquid at day 13	Treatment 2 Run 1 Heat pump 2	h
+A1051	26290	2019-14-1051	Mibi	9/3/2019	Fermenter liquid d13 Trt3-Run1-HP1	Fermenter liquid at day 13	Treatment 3 Run 1 Heat pump 1	a
+A1052	28555	2019-14-1052	Mibi	9/3/2019	Fermenter liquid d13 Trt3-Run1-HP2	Fermenter liquid at day 13	Treatment 3 Run 1 Heat pump 2	g
+A1053	23599	2019-14-1053	Mibi	9/3/2019	Fermenter liquid d13 Trt4-Run1-HP1	Fermenter liquid at day 13	Treatment 4 Run 1 Heat pump 1	c
+A1054	22265	2019-14-1054	Mibi	9/3/2019	Fermenter liquid d13 Trt4-Run1-HP2	Fermenter liquid at day 13	Treatment 4 Run 1 Heat pump 2	f
+A1055	24105	2019-14-1055	Mibi	9/3/2019	Fermenter liquid d13 Trt5-Run1-HP1	Fermenter liquid at day 13	Treatment 5 Run 1 Heat pump 1	b
+A1056	25773	2019-14-1056	Mibi	9/3/2019	Fermenter liquid d13 Trt5-Run1-HP2	Fermenter liquid at day 13	Treatment 5 Run 1 Heat pump 2	i
+A1057	20128	2019-14-1057	Mibi	8/28/2019	Effluent d7 Trt1-Run1-HP1	Effluent at day 7	Treatment 1 Run 1 Heat pump 1	e
+A1058	27159	2019-14-1058	Mibi	8/28/2019	Effluent d7 Trt1-Run1-HP2	Effluent at day 7	Treatment 1 Run 1 Heat pump 2	j
+A1059	32644	2019-14-1059	Mibi	8/28/2019	Effluent d7 Trt2-Run1-HP1	Effluent at day 7	Treatment 2 Run 1 Heat pump 1	d
+A1060	28685	2019-14-1060	Mibi	8/28/2019	Effluent d7 Trt2-Run1-HP2	Effluent at day 7	Treatment 2 Run 1 Heat pump 2	h
+A1061	35717	2019-14-1061	Mibi	8/28/2019	Effluent d7 Trt3-Run1-HP1	Effluent at day 7	Treatment 3 Run 1 Heat pump 1	a
+A1062	32284	2019-14-1062	Mibi	8/28/2019	Effluent d7 Trt3-Run1-HP2	Effluent at day 7	Treatment 3 Run 1 Heat pump 2	g
+A1063	28656	2019-14-1063	Mibi	8/28/2019	Effluent d7 Trt4-Run1-HP1	Effluent at day 7	Treatment 4 Run 1 Heat pump 1	c
+A1064	29970	2019-14-1064	Mibi	8/28/2019	Effluent d7 Trt4-Run1-HP2	Effluent at day 7	Treatment 4 Run 1 Heat pump 2	f
+A1065	26673	2019-14-1065	Mibi	8/28/2019	Effluent d7 Trt5-Run1-HP1	Effluent at day 7	Treatment 5 Run 1 Heat pump 1	b
+A1066	28681	2019-14-1066	Mibi	8/28/2019	Effluent d7 Trt5-Run1-HP2	Effluent at day 7	Treatment 5 Run 1 Heat pump 2	i
+A1067	28979	2019-14-1067	Mibi	9/3/2019	Effluent d13 Trt1-Run1-HP1	Effluent at day 13	Treatment 1 Run 1 Heat pump 1	e
+A1068	36172	2019-14-1068	Mibi	9/3/2019	Effluent d13 Trt1-Run1-HP2	Effluent at day 13	Treatment 1 Run 1 Heat pump 2	j
+A1069	40069	2019-14-1069	Mibi	9/3/2019	Effluent d13 Trt2-Run1-HP1	Effluent at day 13	Treatment 2 Run 1 Heat pump 1	d
+A1070	27462	2019-14-1070	Mibi	9/3/2019	Effluent d13 Trt2-Run1-HP2	Effluent at day 13	Treatment 2 Run 1 Heat pump 2	h
+A1071	22331	2019-14-1071	Mibi	9/3/2019	Effluent d13 Trt3-Run1-HP1	Effluent at day 13	Treatment 3 Run 1 Heat pump 1	a
+A1072	18100	2019-14-1072	Mibi	9/3/2019	Effluent d13 Trt3-Run1-HP2	Effluent at day 13	Treatment 3 Run 1 Heat pump 2	g
+A1073	28632	2019-14-1073	Mibi	9/3/2019	Effluent d13 Trt4-Run1-HP1	Effluent at day 13	Treatment 4 Run 1 Heat pump 1	c
+A1074	34869	2019-14-1074	Mibi	9/3/2019	Effluent d13 Trt4-Run1-HP2	Effluent at day 13	Treatment 4 Run 1 Heat pump 2	f
+A1075	39195	2019-14-1075	Mibi	9/3/2019	Effluent d13 Trt5-Run1-HP1	Effluent at day 13	Treatment 5 Run 1 Heat pump 1	b
+A1076	35902	2019-14-1076	Mibi	9/3/2019	Effluent d13 Trt5-Run1-HP2	Effluent at day 13	Treatment 5 Run 1 Heat pump 2	i
+A2000	36950	2019-14-2000	Mibi	9/11/2019	SP d0-C1-Run2	Rumen solid phase from day 0 (start)	From cow 1 Run 2	
+A2001	38015	2019-14-2001	Mibi	9/11/2019	SP d0-C2-Run2	Rumen solid phase from day 0 (start)	From cow 2 Run 2	
+A2002	33611	2019-14-2002	Mibi	9/11/2019	SP d0-C3-Run2	Rumen solid phase from day 0 (start)	From cow 3 Run 2	
+A2003	22823	2019-14-2003	Mibi	9/11/2019	RF d0-C1-Run2	Rumen fluid from day 0 (start)	From cow 1 Run 2	
+A2004	35121	2019-14-2004	Mibi	9/11/2019	RF d0-C2-Run2	Rumen fluid from day 0 (start)	From cow 2 Run 2	
+A2005	30806	2019-14-2005	Mibi	9/11/2019	RF d0-C3-Run2	Rumen fluid from day 0 (start)	From cow 3 Run 2	
+A2006	26228	2019-14-2006	Mibi	9/11/2019	RF d0-mixed-Run2	Rumen fluid from day 0 (start)	From cow 1-3 and mixed with buffer Run 2	
+A2007	19281	2019-14-2007	Mibi	9/24/2019	Feed residue d13 (24h) Trt1-Run2-HP1	Feed residue at day 13 from 24h bag	Treatment 1 Run 2 Heat pump 1	b
+A2008	20086	2019-14-2008	Mibi	9/24/2019	Feed residue d13 (48h) Trt1-Run2-HP1	Feed residue at day 13 from 48h bag	Treatment 1 Run 2 Heat pump 1	b
+A2009	23577	2019-14-2009	Mibi	9/24/2019	Feed residue d13 (24h) Trt1-Run2-HP2	Feed residue at day 13 from 24h bag	Treatment 1 Run 2 Heat pump 2	i
+A2010	12558	2019-14-2010	Mibi	9/24/2019	Feed residue d13 (48h) Trt1-Run2-HP2	Feed residue at day 13 from 48h bag	Treatment 1 Run 2 Heat pump 2	i
+A2011	16644	2019-14-2011	Mibi	9/24/2019	Feed residue d13 (24h) Trt2-Run2-HP1	Feed residue at day 13 from 24h bag	Treatment 2 Run 2 Heat pump 1	c
+A2012	11045	2019-14-2012	Mibi	9/24/2019	Feed residue d13 (48h) Trt2-Run2-HP1	Feed residue at day 13 from 48h bag	Treatment 2 Run 2 Heat pump 1	c
+A2013	18983	2019-14-2013	Mibi	9/24/2019	Feed residue d13 (24h) Trt2-Run2-HP2	Feed residue at day 13 from 24h bag	Treatment 2 Run 2 Heat pump 2	f
+A2014	58561	2019-14-2014	Mibi	9/24/2019	Feed residue d13 (48h) Trt2-Run2-HP2	Feed residue at day 13 from 48h bag	Treatment 2 Run 2 Heat pump 2	f
+A2015	27406	2019-14-2015	Mibi	9/24/2019	Feed residue d13 (24h) Trt3-Run2-HP1	Feed residue at day 13 from 24h bag	Treatment 3 Run 2 Heat pump 1	e
+A2016	36663	2019-14-2016	Mibi	9/24/2019	Feed residue d13 (48h) Trt3-Run2-HP1	Feed residue at day 13 from 48h bag	Treatment 3 Run 2 Heat pump 1	e
+A2017	31613	2019-14-2017	Mibi	9/24/2019	Feed residue d13 (24h) Trt3-Run2-HP2	Feed residue at day 13 from 24h bag	Treatment 3 Run 2 Heat pump 2	h
+A2018	37965	2019-14-2018	Mibi	9/24/2019	Feed residue d13 (48h) Trt3-Run2-HP2	Feed residue at day 13 from 48h bag	Treatment 3 Run 2 Heat pump 2	h
+A2019	27907	2019-14-2019	Mibi	9/24/2019	Feed residue d13 (24h) Trt4-Run2-HP1	Feed residue at day 13 from 24h bag	Treatment 4 Run 2 Heat pump 1	d
+A2020	20517	2019-14-2020	Mibi	9/24/2019	Feed residue d13 (48h) Trt4-Run2-HP1	Feed residue at day 13 from 48h bag	Treatment 4 Run 2 Heat pump 1	d
+A2021	41048	2019-14-2021	Mibi	9/24/2019	Feed residue d13 (24h) Trt4-Run2-HP2	Feed residue at day 13 from 24h bag	Treatment 4 Run 2 Heat pump 2	j
+A2022	34968	2019-14-2022	Mibi	9/24/2019	Feed residue d13 (48h) Trt4-Run2-HP2	Feed residue at day 13 from 48h bag	Treatment 4 Run 2 Heat pump 2	j
+A2023	42305	2019-14-2023	Mibi	9/24/2019	Feed residue d13 (24h) Trt5-Run2-HP1	Feed residue at day 13 from 24h bag	Treatment 5 Run 2 Heat pump 1	a
+A2024	39303	2019-14-2024	Mibi	9/24/2019	Feed residue d13 (48h) Trt5-Run2-HP1	Feed residue at day 13 from 48h bag	Treatment 5 Run 2 Heat pump 1	a
+A2025	22640	2019-14-2025	Mibi	9/24/2019	Feed residue d13 (24h) Trt5-Run2-HP2	Feed residue at day 13 from 24h bag	Treatment 5 Run 2 Heat pump 2	g
+A2026	35253	2019-14-2026	Mibi	9/24/2019	Feed residue d13 (48h) Trt5-Run2-HP2	Feed residue at day 13 from 48h bag	Treatment 5 Run 2 Heat pump 2	g
+A2027	36335	2019-14-2027	Mibi	9/24/2019	SAM d13 Trt1-Run2-HP1	Liquid after SAM treatment of both bags at day 13	Treatment 1 Run 2 Heat pump 1	b
+A2028	30158	2019-14-2028	Mibi	9/24/2019	SAM d13 Trt1-Run2-HP2	Liquid after SAM treatment of both bags at day 13	Treatment 1 Run 2 Heat pump 2	i
+A2029	40300	2019-14-2029	Mibi	9/24/2019	SAM d13 Trt2-Run2-HP1	Liquid after SAM treatment of both bags at day 13	Treatment 2 Run 2 Heat pump 1	c
+A2030	16496	2019-14-2030	Mibi	9/24/2019	SAM d13 Trt2-Run2-HP2	Liquid after SAM treatment of both bags at day 13	Treatment 2 Run 2 Heat pump 2	f
+A2031	18359	2019-14-2031	Mibi	9/24/2019	SAM d13 Trt3-Run2-HP1	Liquid after SAM treatment of both bags at day 13	Treatment 3 Run 2 Heat pump 1	e
+A2032	49134	2019-14-2032	Mibi	9/24/2019	SAM d13 Trt3-Run2-HP2	Liquid after SAM treatment of both bags at day 13	Treatment 3 Run 2 Heat pump 2	h
+A2033	38185	2019-14-2033	Mibi	9/24/2019	SAM d13 Trt4-Run2-HP1	Liquid after SAM treatment of both bags at day 13	Treatment 4 Run 2 Heat pump 1	d
+A2034	39463	2019-14-2034	Mibi	9/24/2019	SAM d13 Trt4-Run2-HP2	Liquid after SAM treatment of both bags at day 13	Treatment 4 Run 2 Heat pump 2	j
+A2035	30474	2019-14-2035	Mibi	9/24/2019	SAM d13 Trt5-Run2-HP1	Liquid after SAM treatment of both bags at day 13	Treatment 5 Run 2 Heat pump 1	a
+A2036	29835	2019-14-2036	Mibi	9/24/2019	SAM d13 Trt5-Run2-HP2	Liquid after SAM treatment of both bags at day 13	Treatment 5 Run 2 Heat pump 2	g
+A2037	25530	2019-14-2037	Mibi	9/18/2019	Fermenter liquid d7 Trt1-Run2-HP1	Fermenter liquid at day 7	Treatment 1 Run 2 Heat pump 1	b
+A2038	38824	2019-14-2038	Mibi	9/18/2019	Fermenter liquid d7 Trt1-Run2-HP2	Fermenter liquid at day 7	Treatment 1 Run 2 Heat pump 2	i
+A2039	31547	2019-14-2039	Mibi	9/18/2019	Fermenter liquid d7 Trt2-Run2-HP1	Fermenter liquid at day 7	Treatment 2 Run 2 Heat pump 1	c
+A2040	34849	2019-14-2040	Mibi	9/18/2019	Fermenter liquid d7 Trt2-Run2-HP2	Fermenter liquid at day 7	Treatment 2 Run 2 Heat pump 2	f
+A2041	32844	2019-14-2041	Mibi	9/18/2019	Fermenter liquid d7 Trt3-Run2-HP1	Fermenter liquid at day 7	Treatment 3 Run 2 Heat pump 1	e
+A2042	27152	2019-14-2042	Mibi	9/18/2019	Fermenter liquid d7 Trt3-Run2-HP2	Fermenter liquid at day 7	Treatment 3 Run 2 Heat pump 2	h
+A2043	24844	2019-14-2043	Mibi	9/18/2019	Fermenter liquid d7 Trt4-Run2-HP1	Fermenter liquid at day 7	Treatment 4 Run 2 Heat pump 1	d
+A2044	27921	2019-14-2044	Mibi	9/18/2019	Fermenter liquid d7 Trt4-Run2-HP2	Fermenter liquid at day 7	Treatment 4 Run 2 Heat pump 2	j
+A2045	24876	2019-14-2045	Mibi	9/18/2019	Fermenter liquid d7 Trt5-Run2-HP1	Fermenter liquid at day 7	Treatment 5 Run 2 Heat pump 1	a
+A2046	14009	2019-14-2046	Mibi	9/18/2019	Fermenter liquid d7 Trt5-Run2-HP2	Fermenter liquid at day 7	Treatment 5 Run 2 Heat pump 2	g
+A2047	15167	2019-14-2047	Mibi	9/24/2019	Fermenter liquid d13 Trt1-Run2-HP1	Fermenter liquid at day 13	Treatment 1 Run 2 Heat pump 1	b
+A2048	27748	2019-14-2048	Mibi	9/24/2019	Fermenter liquid d13 Trt1-Run2-HP2	Fermenter liquid at day 13	Treatment 1 Run 2 Heat pump 2	i
+A2049	32178	2019-14-2049	Mibi	9/24/2019	Fermenter liquid d13 Trt2-Run2-HP1	Fermenter liquid at day 13	Treatment 2 Run 2 Heat pump 1	c
+A2050	33280	2019-14-2050	Mibi	9/24/2019	Fermenter liquid d13 Trt2-Run2-HP2	Fermenter liquid at day 13	Treatment 2 Run 2 Heat pump 2	f
+A2051	29730	2019-14-2051	Mibi	9/24/2019	Fermenter liquid d13 Trt3-Run2-HP1	Fermenter liquid at day 13	Treatment 3 Run 2 Heat pump 1	e
+A2052	33357	2019-14-2052	Mibi	9/24/2019	Fermenter liquid d13 Trt3-Run2-HP2	Fermenter liquid at day 13	Treatment 3 Run 2 Heat pump 2	h
+A2053	34548	2019-14-2053	Mibi	9/24/2019	Fermenter liquid d13 Trt4-Run2-HP1	Fermenter liquid at day 13	Treatment 4 Run 2 Heat pump 1	d
+A2054	19955	2019-14-2054	Mibi	9/24/2019	Fermenter liquid d13 Trt4-Run2-HP2	Fermenter liquid at day 13	Treatment 4 Run 2 Heat pump 2	j
+A2055	51052	2019-14-2055	Mibi	9/24/2019	Fermenter liquid d13 Trt5-Run2-HP1	Fermenter liquid at day 13	Treatment 5 Run 2 Heat pump 1	a
+A2056	43477	2019-14-2056	Mibi	9/24/2019	Fermenter liquid d13 Trt5-Run2-HP2	Fermenter liquid at day 13	Treatment 5 Run 2 Heat pump 2	g
+A2057	31998	2019-14-2057	Mibi	9/18/2019	Effluent d7 Trt1-Run2-HP1	Effluent at day 7	Treatment 1 Run 2 Heat pump 1	b
+A2058	26957	2019-14-2058	Mibi	9/18/2019	Effluent d7 Trt1-Run2-HP2	Effluent at day 7	Treatment 1 Run 2 Heat pump 2	i
+A2059	28841	2019-14-2059	Mibi	9/18/2019	Effluent d7 Trt2-Run2-HP1	Effluent at day 7	Treatment 2 Run 2 Heat pump 1	c
+A2060	24070	2019-14-2060	Mibi	9/18/2019	Effluent d7 Trt2-Run2-HP2	Effluent at day 7	Treatment 2 Run 2 Heat pump 2	f
+A2061	29955	2019-14-2061	Mibi	9/18/2019	Effluent d7 Trt3-Run2-HP1	Effluent at day 7	Treatment 3 Run 2 Heat pump 1	e
+A2062	25728	2019-14-2062	Mibi	9/18/2019	Effluent d7 Trt3-Run2-HP2	Effluent at day 7	Treatment 3 Run 2 Heat pump 2	h
+A2063	11530	2019-14-2063	Mibi	9/18/2019	Effluent d7 Trt4-Run2-HP1	Effluent at day 7	Treatment 4 Run 2 Heat pump 1	d
+A2064	34359	2019-14-2064	Mibi	9/18/2019	Effluent d7 Trt4-Run2-HP2	Effluent at day 7	Treatment 4 Run 2 Heat pump 2	j
+A2065	25306	2019-14-2065	Mibi	9/18/2019	Effluent d7 Trt5-Run2-HP1	Effluent at day 7	Treatment 5 Run 2 Heat pump 1	a
+A2066	21641	2019-14-2066	Mibi	9/18/2019	Effluent d7 Trt5-Run2-HP2	Effluent at day 7	Treatment 5 Run 2 Heat pump 2	g
+A2067	21030	2019-14-2067	Mibi	9/24/2019	Effluent d13 Trt1-Run2-HP1	Effluent at day 13	Treatment 1 Run 2 Heat pump 1	b
+A2068	24246	2019-14-2068	Mibi	9/24/2019	Effluent d13 Trt1-Run2-HP2	Effluent at day 13	Treatment 1 Run 2 Heat pump 2	i
+A2069	24912	2019-14-2069	Mibi	9/24/2019	Effluent d13 Trt2-Run2-HP1	Effluent at day 13	Treatment 2 Run 2 Heat pump 1	c
+A2070	42229	2019-14-2070	Mibi	9/24/2019	Effluent d13 Trt2-Run2-HP2	Effluent at day 13	Treatment 2 Run 2 Heat pump 2	f
+A2071	33003	2019-14-2071	Mibi	9/24/2019	Effluent d13 Trt3-Run2-HP1	Effluent at day 13	Treatment 3 Run 2 Heat pump 1	e
+A2072	29426	2019-14-2072	Mibi	9/24/2019	Effluent d13 Trt3-Run2-HP2	Effluent at day 13	Treatment 3 Run 2 Heat pump 2	h
+A2073	23264	2019-14-2073	Mibi	9/24/2019	Effluent d13 Trt4-Run2-HP1	Effluent at day 13	Treatment 4 Run 2 Heat pump 1	d
+A2074	30189	2019-14-2074	Mibi	9/24/2019	Effluent d13 Trt4-Run2-HP2	Effluent at day 13	Treatment 4 Run 2 Heat pump 2	j
+A2075	22842	2019-14-2075	Mibi	9/24/2019	Effluent d13 Trt5-Run2-HP1	Effluent at day 13	Treatment 5 Run 2 Heat pump 1	a
+A2076	22586	2019-14-2076	Mibi	9/24/2019	Effluent d13 Trt5-Run2-HP2	Effluent at day 13	Treatment 5 Run 2 Heat pump 2	g

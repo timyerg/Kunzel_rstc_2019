@@ -1,0 +1,55 @@
+	Metric	Group	Column	Perm.	PERMstats	p	Comment
+0	jaccard	All	Day	999	16.15001	0.001	pairwise
+1	jaccard	d0	BS	999	2.20766	0.001	p = 0.001
+2	jaccard	d7	BS	999	1.88657	0.024	p = 0.024
+3	jaccard	d13	BS	999	7.53666	0.001	pairwise
+4	jaccard	RF_d0	Source	999	1.05985	0.341	no_pairwise
+5	jaccard	RF_d0	rstc_run	999	1.97488	0.023	p = 0.023
+6	jaccard	RSP_d0	Source	999	1.54863	0.058	trend
+7	jaccard	RSP_d0	rstc_run	999	0.99695	0.682	no_pairwise
+8	jaccard	E_d7	Treatment	999	0.97674	0.466	no_pairwise
+9	jaccard	E_d7	Source	999	0.79654	0.786	no_pairwise
+10	jaccard	E_d7	rstc_run	999	5.43091	0.001	p = 0.001
+11	jaccard	FL_d7	Treatment	999	1.0162	0.37	no_pairwise
+12	jaccard	FL_d7	Source	999	0.71327	0.918	no_pairwise
+13	jaccard	FL_d7	rstc_run	999	6.08734	0.001	p = 0.001
+14	jaccard	E_d13	Treatment	999	1.02999	0.366	no_pairwise
+15	jaccard	E_d13	Source	999	0.87926	0.588	no_pairwise
+16	jaccard	E_d13	rstc_run	999	5.05768	0.001	p = 0.001
+17	jaccard	FL_d13	Treatment	999	1.07357	0.305	no_pairwise
+18	jaccard	FL_d13	Source	999	0.75653	0.887	no_pairwise
+19	jaccard	FL_d13	rstc_run	999	5.12495	0.001	p = 0.001
+20	jaccard	FR_d13	Day_hour	999	2.96537	0.001	p = 0.001
+21	jaccard	FR_d13	Treatment	999	1.16203	0.104	no_pairwise
+22	jaccard	FR_d13	Source	999	0.79053	0.867	no_pairwise
+23	jaccard	FR_d13	rstc_run	999	6.55118	0.001	p = 0.001
+24	jaccard	SAM_d13	Treatment	999	1.07586	0.286	no_pairwise
+25	jaccard	SAM_d13	Source	999	0.72385	0.958	no_pairwise
+26	jaccard	SAM_d13	rstc_run	999	4.95707	0.001	p = 0.001
+27	bray_curtis	All	Day	999	28.48097	0.001	pairwise
+28	bray_curtis	d0	BS	999	3.16274	0.002	p = 0.002
+29	bray_curtis	d7	BS	999	2.95026	0.006	p = 0.006
+30	bray_curtis	d13	BS	999	18.68315	0.001	pairwise
+31	bray_curtis	RF_d0	Source	999	1.01853	0.441	no_pairwise
+32	bray_curtis	RF_d0	rstc_run	999	2.41228	0.027	p = 0.027
+33	bray_curtis	RSP_d0	Source	999	1.84655	0.07	trend
+34	bray_curtis	RSP_d0	rstc_run	999	0.86517	0.708	no_pairwise
+35	bray_curtis	E_d7	Treatment	999	1.13547	0.276	no_pairwise
+36	bray_curtis	E_d7	Source	999	0.4964	0.954	no_pairwise
+37	bray_curtis	E_d7	rstc_run	999	10.83893	0.001	p = 0.001
+38	bray_curtis	FL_d7	Treatment	999	1.16266	0.252	no_pairwise
+39	bray_curtis	FL_d7	Source	999	0.46903	0.956	no_pairwise
+40	bray_curtis	FL_d7	rstc_run	999	11.38714	0.001	p = 0.001
+41	bray_curtis	E_d13	Treatment	999	1.08506	0.335	no_pairwise
+42	bray_curtis	E_d13	Source	999	0.50756	0.923	no_pairwise
+43	bray_curtis	E_d13	rstc_run	999	11.8116	0.002	p = 0.002
+44	bray_curtis	FL_d13	Treatment	999	1.12175	0.324	no_pairwise
+45	bray_curtis	FL_d13	Source	999	0.55466	0.892	no_pairwise
+46	bray_curtis	FL_d13	rstc_run	999	10.32812	0.001	p = 0.001
+47	bray_curtis	FR_d13	Day_hour	999	4.335	0.003	p = 0.003
+48	bray_curtis	FR_d13	Treatment	999	1.16549	0.25	no_pairwise
+49	bray_curtis	FR_d13	Source	999	0.31246	0.983	no_pairwise
+50	bray_curtis	FR_d13	rstc_run	999	19.1323	0.001	p = 0.001
+51	bray_curtis	SAM_d13	Treatment	999	0.75052	0.671	no_pairwise
+52	bray_curtis	SAM_d13	Source	999	0.3379	0.932	no_pairwise
+53	bray_curtis	SAM_d13	rstc_run	999	20.68962	0.001	p = 0.001

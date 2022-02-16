@@ -1,0 +1,12 @@
+start time: 2021-10-26 15:54:11.010102
+SCNIC analysis type: within
+input table: SCNIC/feature-table.biom
+number of samples in input table: 120
+number of observations in input table: 55
+output directory: /home/meco/Nextcloud/Projects/RUSITEC/Rusitec_amplicon2019/SCNIC/Within_features
+sparcc paper filter: True
+number of observations present after filter: 55
+number of processors used: 1
+distance metric used: sparcc
+finish time: 2021-10-26 15:55:16.729139
+elapsed time: 0:01:05.719037

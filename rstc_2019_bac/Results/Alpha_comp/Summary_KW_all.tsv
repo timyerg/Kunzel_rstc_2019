@@ -1,0 +1,53 @@
+	Metric	Group	Column	KWstats	p	Comment
+0	faith_pd	d0	BS	3.26667	0.0707	trend
+1	faith_pd	d7	BS	2.29463	0.12982	no_pairwise
+2	faith_pd	d13	BS	68.96	0.0	pairwise
+3	faith_pd	RF_d0	Source	4.5	0.21229	no_pairwise
+4	faith_pd	RF_d0	rstc_run	1.33333	0.24821	no_pairwise
+5	faith_pd	RSP_d0	Source	0.0	1.0	no_pairwise
+6	faith_pd	RSP_d0	rstc_run	3.85714	0.04953	p = 0.04953
+7	faith_pd	E_d7	Treatment	2.5	0.64464	no_pairwise
+8	faith_pd	E_d7	Source	0.14286	0.70546	no_pairwise
+9	faith_pd	E_d7	rstc_run	4.48	0.03429	p = 0.03429
+10	faith_pd	FL_d7	Treatment	0.18571	0.99595	no_pairwise
+11	faith_pd	FL_d7	Source	0.20571	0.65015	no_pairwise
+12	faith_pd	FL_d7	rstc_run	14.28571	0.00016	p = 0.00016
+13	faith_pd	E_d13	Treatment	0.51579	0.97195	no_pairwise
+14	faith_pd	E_d13	Source	0.16667	0.68309	no_pairwise
+15	faith_pd	E_d13	rstc_run	6.0	0.01431	p = 0.01431
+16	faith_pd	FL_d13	Treatment	4.26579	0.37123	no_pairwise
+17	faith_pd	FL_d13	Source	0.54	0.46243	no_pairwise
+18	faith_pd	FL_d13	rstc_run	1.12667	0.28849	no_pairwise
+19	faith_pd	FR_d13	Day_hour	0.95653	0.32806	no_pairwise
+20	faith_pd	FR_d13	Treatment	5.74022	0.21941	no_pairwise
+21	faith_pd	FR_d13	Source	0.34188	0.55875	no_pairwise
+22	faith_pd	FR_d13	rstc_run	15.1188	0.0001	p = 0.0001
+23	faith_pd	SAM_d13	Treatment	3.61429	0.46071	no_pairwise
+24	faith_pd	SAM_d13	Source	0.00571	0.93974	no_pairwise
+25	faith_pd	SAM_d13	rstc_run	0.46286	0.49629	no_pairwise
+26	shannon_entropy	d0	BS	0.41667	0.51861	no_pairwise
+27	shannon_entropy	d7	BS	0.45732	0.49888	no_pairwise
+28	shannon_entropy	d13	BS	71.52683	0.0	pairwise
+29	shannon_entropy	RF_d0	Source	3.16667	0.36664	no_pairwise
+30	shannon_entropy	RF_d0	rstc_run	3.0	0.08326	trend
+31	shannon_entropy	RSP_d0	Source	1.14286	0.56472	no_pairwise
+32	shannon_entropy	RSP_d0	rstc_run	3.85714	0.04953	p = 0.04953
+33	shannon_entropy	E_d7	Treatment	1.82857	0.76725	no_pairwise
+34	shannon_entropy	E_d7	Source	0.57143	0.44969	no_pairwise
+35	shannon_entropy	E_d7	rstc_run	0.02286	0.87983	no_pairwise
+36	shannon_entropy	FL_d7	Treatment	1.48571	0.82917	no_pairwise
+37	shannon_entropy	FL_d7	Source	0.82286	0.36435	no_pairwise
+38	shannon_entropy	FL_d7	rstc_run	9.60571	0.00194	p = 0.00194
+39	shannon_entropy	E_d13	Treatment	4.55	0.33666	no_pairwise
+40	shannon_entropy	E_d13	Source	0.02667	0.87028	no_pairwise
+41	shannon_entropy	E_d13	rstc_run	6.0	0.01431	p = 0.01431
+42	shannon_entropy	FL_d13	Treatment	4.62632	0.32783	no_pairwise
+43	shannon_entropy	FL_d13	Source	0.96	0.32719	no_pairwise
+44	shannon_entropy	FL_d13	rstc_run	3.22667	0.07245	trend
+45	shannon_entropy	FR_d13	Day_hour	4.98807	0.02552	p = 0.02552
+46	shannon_entropy	FR_d13	Treatment	5.20479	0.26692	no_pairwise
+47	shannon_entropy	FR_d13	Source	0.12308	0.72572	no_pairwise
+48	shannon_entropy	FR_d13	rstc_run	4.93675	0.02629	p = 0.02629
+49	shannon_entropy	SAM_d13	Treatment	2.92857	0.56985	no_pairwise
+50	shannon_entropy	SAM_d13	Source	0.20571	0.65015	no_pairwise
+51	shannon_entropy	SAM_d13	rstc_run	0.05143	0.8206	no_pairwise
